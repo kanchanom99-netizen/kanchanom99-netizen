@@ -1,20 +1,34 @@
 <div align="center">
 
-<h1>Hi, I'm Om Kanchan 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=180&section=header&text=Om%20Kanchan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student%20%7C%20Learning%20%E2%80%A2%20Building%20%E2%80%A2%20Improving&descAlignY=58&descSize=18" width="100%"/>
 
-<p>
-  <strong>B.Tech Computer Science & Engineering Student</strong><br>
-  Learning • Building • Improving
-</p>
+<br>
 
-<p>
-  <a href="https://github.com/kanchanom99-netizen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/om-kanchan-ba376a38a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+%26+Engineering;Learning+Programming+%26+DSA;Building+Projects;Exploring+Web+Development;Improving+Every+Day" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://github.com/kanchanom99-netizen">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/om-kanchan-ba376a38a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kanchanom99-netizen&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Learning. Building. Improving. ✨
+
+<img src="https://user-images.githubusercontent.com/74038190/216649426-8a9b6c6e-4a4b-4f0c-9c8e-6b6e7c5c6f4b.gif" width="40">
 
 </div>
 
@@ -34,91 +48,35 @@ I'm not trying to know everything at once — I'm focusing on learning the funda
 
 ## 📚 What I'm Learning
 
-- 💻 Programming fundamentals
-- 🧠 Data Structures & Algorithms
-- 🐍 Python
-- ⚡ C++
-- 🗄️ DBMS & SQL
-- 🌐 Web Development
-- 🔧 Git & GitHub
-- 🧩 Problem Solving
-- 🏗️ Software Engineering
-- 💡 Building practical projects
+<div align="center">
+
+| 💻 Area | 📖 Focus |
+|---|---|
+| Programming | C / C++ / Python |
+| 🧠 DSA | Data Structures & Problem Solving |
+| 🗄️ Database | DBMS & SQL |
+| 🌐 Web | HTML / CSS / JavaScript |
+| 🔧 Tools | Git & GitHub |
+| 🏗️ Development | Software Engineering |
+| 💡 Problem Solving | Logical Thinking & Algorithms |
+
+</div>
 
 ---
 
 ## 🚧 What I'm Doing Right Now
 
-- 🧠 Practicing DSA using C++
-- 🐍 Completing Python practicals
-- 💻 Strengthening C/C++ programming
-- 🗄️ Learning DBMS concepts and SQL
-- 🌐 Exploring web development
-- 🔧 Improving my GitHub workflow
-- 📖 Studying core Computer Science subjects
-- 🚀 Working toward building better projects
-- 🎯 Preparing myself for internships and placements
-
----
-
-## 🧱 Things I'm Building
-
-My repositories are currently focused on **learning, experimentation, academic practicals, and gradually moving toward real-world projects**.
-
-### 🐍 Python
-
-Python programs and practicals covering programming fundamentals, problem solving, and laboratory exercises.
-
-→ [View Python Repository](https://github.com/kanchanom99-netizen/python)
-
-### 🧠 DSA
-
-Data Structures & Algorithms implementations and practice problems written in C++.
-
-→ [View DSA Repository](https://github.com/kanchanom99-netizen/dsa)
-
-### 💻 Learning
-
-A collection of programming experiments, notes, practice programs, and things I'm learning along the way.
-
-→ [View Learning Repository](https://github.com/kanchanom99-netizen/learning)
-
-### 🚀 Projects
-
-A place for projects that go beyond basic classroom exercises and help me apply what I learn.
-
-→ [View Projects](https://github.com/kanchanom99-netizen?tab=repositories)
-
----
-
-## 📂 Repository Structure
-
-I'm keeping my GitHub organized around different stages of my learning journey.
-
 ```text
-📦 GitHub
-│
-├── 📚 learning
-│   ├── programming
-│   ├── experiments
-│   └── practice
-│
-├── 🐍 python
-│   ├── practical-01
-│   ├── practical-02
-│   ├── practical-03
-│   └── ...
-│
-├── 🧠 dsa
-│   ├── arrays
-│   ├── searching
-│   ├── sorting
-│   ├── linked-list
-│   ├── stack
-│   ├── queue
-│   └── ...
-│
-└── 🚀 projects
-    ├── project-01
-    ├── project-02
-    └── ...
+┌─────────────────────────────────────────────┐
+│                                             │
+│  🧠 Practicing DSA using C++                │
+│  🐍 Completing Python practicals            │
+│  💻 Strengthening C/C++ programming         │
+│  🗄️ Learning DBMS & SQL                     │
+│  🌐 Exploring Web Development               │
+│  🔧 Improving Git & GitHub workflow         │
+│  📖 Studying Core CS subjects               │
+│  🚀 Building practical projects             │
+│  🎯 Preparing for internships & placements  │
+│                                             │
+└─────────────────────────────────────────────┘
